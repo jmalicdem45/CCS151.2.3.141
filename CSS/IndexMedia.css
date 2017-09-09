@@ -1,0 +1,13 @@
+footer {
+	
+	display: block;
+	
+	overflow-y: auto;
+	
+}
+
+footer > div {
+	
+	display: block;
+	
+}
